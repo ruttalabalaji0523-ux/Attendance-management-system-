@@ -1,0 +1,6 @@
+{
+  "name": "Chronos Attendance & Workforce Management",
+  "description": "Enterprise-grade attendance management system with real-time punch clock, shift scheduling, regularization requests, leave management, and payroll reports.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
